@@ -1,0 +1,190 @@
+{
+  "group": "One Direction",
+  "foundation_year": "2010-11-12",
+  "web": "https://www.onedirectionmusic.com/gb/home.html",
+  "email": "javier.garcia.cespedes@alumnos.upm.es",
+  "description": "1D fue una boy band británico-irlandesa formada en 2010 compuesta por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson.",
+  "members": [
+    { "name": "Harry Styles", "edad": 28 },
+    { "name": "Liam Payne", "edad": 29 },
+    { "name": "Zayn Malik", "edad": 29 },
+    { "name": "Niall Horan", "edad": 29 },
+    { "name": "Louis Tomlinson", "edad": 30 }
+  ],
+  "albums": [
+    {"name": "Up All Night", "year": 2011, "songs": [
+        {
+            "name": "What Makes You Beautiful",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Gotta Be You",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "One Thing",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "More than this",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Up All Nigh",
+            "length": "20:20:39+00:00",
+            "hit": false
+        },
+        {
+            "name": "I Wish",
+            "length": "20:20:39+00:00",
+            "hit": false
+        },
+        {
+            "name": "Tell Me a Lie",
+            "length": "20:20:39+00:00",
+            "hit": false
+        },
+        {
+            "name": "I Want",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Everything About You",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Same Mistakes",
+            "length": "20:20:39+00:00",
+            "hit": false
+        },
+        {
+            "name": "Save You Tonight",
+            "length": "20:20:39+00:00",
+            "hit": false
+        },
+        {
+            "name": "Stole My Heart",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Stand Up",
+            "length": "20:20:39+00:00",
+            "hit": true
+        },
+        {
+            "name": "Moments",
+            "length": "20:20:39+00:00",
+            "hit": true
+        }
+    ]},
+    {"name": "Take Me Home","year": 2012, "songs": [{
+        "name": "Live While We're Young",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Kiss You",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Little Things",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "C'mon C'mon",
+        "length": "20:20:39+00:00",
+        "hit": false
+    },
+    {
+        "name": "Last First Kiss",
+        "length": "20:20:39+00:00",
+        "hit": false
+    },
+    {
+        "name": "Heart Attack",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Rock Me",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Change My Mind",
+        "length": "20:20:39+00:00",
+        "hit": false
+    },
+    {
+        "name": "I Would",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Over Again",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Back For You",
+        "length": "20:20:39+00:00",
+        "hit": false
+    },
+    {
+        "name": "They Don't Know About Us",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Summer Love",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "She's Not Afraid",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Loved You First",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Nobody Compares",
+        "length": "20:20:39+00:00",
+        "hit": false
+    },
+    {
+        "name": "Still The One ",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Truly, Madly, Deeply",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Magic",
+        "length": "20:20:39+00:00",
+        "hit": true
+    },
+    {
+        "name": "Irresistible",
+        "length": "20:20:39+00:00",
+        "hit": false
+    }
+]}
+],
+  "concerts": ["Madrid", "Los Angeles", "Paris", "Berlin", "Nueva York", "Almeria", "Kiev", "Estocolmo"]
+}

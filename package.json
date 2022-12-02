@@ -1,0 +1,24 @@
+{
+    "name": "nosql_practica1",
+    "version": "0.0.1",
+    "description": "autoCOREctor de la asignatura de BBDD (UPM)",
+    "disableHashCheck": true,
+    "keywords": [
+        "BBDD",
+        "NoSQL",
+        "self-assessment"
+    ],
+    "author": "ging",
+    "license": "GNU",
+    "info": {
+        "githubURL": "BBDD-ETSIT/nosql_practica1_sibd",
+        "serverUrl": "https://aat.dit.upm.es/",
+        "courseId": "903",
+        "assignmentId": "43881"
+    },
+    "dependencies": {
+        "ajv": "^8.11.2",
+        "ajv-formats": "^2.1.1",
+        "autocorector": "^3.1.4"
+    }
+}
